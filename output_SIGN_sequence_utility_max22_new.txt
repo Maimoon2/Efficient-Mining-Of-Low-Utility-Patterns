@@ -1,0 +1,1265 @@
+max_utility:22
+maxLength:2147483647
+
+Printing:mapTidToItems:
+Line0:[5, 15, 23, 8, 9, 28, 13, 38, 66, 14, 29, 32, 17, 26, 33, 18, 77, 22, 4, 27]
+
+Printing:mapTidToUtilities:
+Line0:[45, 3, 50, 4, 8, 45, 6, 4, 40, 15, 16, 30, 63, 2, 4, 40, 12, 7, 3, 15]
+
+当前运行到 preprocess
+输出最大序列[[15, 8, 9, 13, 38, 14, 29, 26, 33, 77, 22, 4, 27]]
+0/1
+Low utility sequence: [15, 8, 9, 13]
+
+Low utility sequence: [15, 8, 9, 38, 26]
+
+Low utility sequence: [15, 8, 9, 38, 4]
+
+Low utility sequence: [15, 8, 9, 38]
+
+Low utility sequence: [15, 8, 9, 26, 33]
+
+Low utility sequence: [15, 8, 9, 26, 4]
+
+Low utility sequence: [15, 8, 9, 26]
+
+Low utility sequence: [15, 8, 9, 33, 4]
+
+Low utility sequence: [15, 8, 9, 33]
+
+Low utility sequence: [15, 8, 9, 22]
+
+Low utility sequence: [15, 8, 9, 4]
+
+Low utility sequence: [15, 8, 9]
+
+Low utility sequence: [15, 8, 13, 38, 26, 4]
+
+Low utility sequence: [15, 8, 13, 38, 26]
+
+Low utility sequence: [15, 8, 13, 38, 33]
+
+Low utility sequence: [15, 8, 13, 38, 4]
+
+Low utility sequence: [15, 8, 13, 38]
+
+Low utility sequence: [15, 8, 13, 26, 33, 4]
+
+Low utility sequence: [15, 8, 13, 26, 33]
+
+Low utility sequence: [15, 8, 13, 26, 22]
+
+Low utility sequence: [15, 8, 13, 26, 4]
+
+Low utility sequence: [15, 8, 13, 26]
+
+Low utility sequence: [15, 8, 13, 33, 4]
+
+Low utility sequence: [15, 8, 13, 33]
+
+Low utility sequence: [15, 8, 13, 22]
+
+Low utility sequence: [15, 8, 13, 4]
+
+Low utility sequence: [15, 8, 13]
+
+Low utility sequence: [15, 8, 38, 26, 33, 4]
+
+Low utility sequence: [15, 8, 38, 26, 33]
+
+Low utility sequence: [15, 8, 38, 26, 22]
+
+Low utility sequence: [15, 8, 38, 26, 4]
+
+Low utility sequence: [15, 8, 38, 26]
+
+Low utility sequence: [15, 8, 38, 33, 22]
+
+Low utility sequence: [15, 8, 38, 33, 4]
+
+Low utility sequence: [15, 8, 38, 33]
+
+Low utility sequence: [15, 8, 38, 22, 4]
+
+Low utility sequence: [15, 8, 38, 22]
+
+Low utility sequence: [15, 8, 38, 4]
+
+Low utility sequence: [15, 8, 38]
+
+Low utility sequence: [15, 8, 14]
+
+Low utility sequence: [15, 8, 26, 33, 22]
+
+Low utility sequence: [15, 8, 26, 33, 4]
+
+Low utility sequence: [15, 8, 26, 33]
+
+Low utility sequence: [15, 8, 26, 77]
+
+Low utility sequence: [15, 8, 26, 22, 4]
+
+Low utility sequence: [15, 8, 26, 22]
+
+Low utility sequence: [15, 8, 26, 4]
+
+Low utility sequence: [15, 8, 26]
+
+Low utility sequence: [15, 8, 33, 22, 4]
+
+Low utility sequence: [15, 8, 33, 22]
+
+Low utility sequence: [15, 8, 33, 4]
+
+Low utility sequence: [15, 8, 33]
+
+Low utility sequence: [15, 8, 77, 4]
+
+Low utility sequence: [15, 8, 77]
+
+Low utility sequence: [15, 8, 22, 4]
+
+Low utility sequence: [15, 8, 22]
+
+Low utility sequence: [15, 8, 4]
+
+Low utility sequence: [15, 8, 27]
+
+Low utility sequence: [15, 8]
+
+Low utility sequence: [15, 9, 13, 38]
+
+Low utility sequence: [15, 9, 13, 26, 4]
+
+Low utility sequence: [15, 9, 13, 26]
+
+Low utility sequence: [15, 9, 13, 33]
+
+Low utility sequence: [15, 9, 13, 4]
+
+Low utility sequence: [15, 9, 13]
+
+Low utility sequence: [15, 9, 38, 26, 33]
+
+Low utility sequence: [15, 9, 38, 26, 4]
+
+Low utility sequence: [15, 9, 38, 26]
+
+Low utility sequence: [15, 9, 38, 33, 4]
+
+Low utility sequence: [15, 9, 38, 33]
+
+Low utility sequence: [15, 9, 38, 22]
+
+Low utility sequence: [15, 9, 38, 4]
+
+Low utility sequence: [15, 9, 38]
+
+Low utility sequence: [15, 9, 26, 33, 4]
+
+Low utility sequence: [15, 9, 26, 33]
+
+Low utility sequence: [15, 9, 26, 22]
+
+Low utility sequence: [15, 9, 26, 4]
+
+Low utility sequence: [15, 9, 26]
+
+Low utility sequence: [15, 9, 33, 22]
+
+Low utility sequence: [15, 9, 33, 4]
+
+Low utility sequence: [15, 9, 33]
+
+Low utility sequence: [15, 9, 22, 4]
+
+Low utility sequence: [15, 9, 22]
+
+Low utility sequence: [15, 9, 4]
+
+Low utility sequence: [15, 9]
+
+Low utility sequence: [15, 13, 38, 26, 33, 4]
+
+Low utility sequence: [15, 13, 38, 26, 33]
+
+Low utility sequence: [15, 13, 38, 26, 22]
+
+Low utility sequence: [15, 13, 38, 26, 4]
+
+Low utility sequence: [15, 13, 38, 26]
+
+Low utility sequence: [15, 13, 38, 33, 4]
+
+Low utility sequence: [15, 13, 38, 33]
+
+Low utility sequence: [15, 13, 38, 22]
+
+Low utility sequence: [15, 13, 38, 4]
+
+Low utility sequence: [15, 13, 38]
+
+Low utility sequence: [15, 13, 26, 33, 22]
+
+Low utility sequence: [15, 13, 26, 33, 4]
+
+Low utility sequence: [15, 13, 26, 33]
+
+Low utility sequence: [15, 13, 26, 22, 4]
+
+Low utility sequence: [15, 13, 26, 22]
+
+Low utility sequence: [15, 13, 26, 4]
+
+Low utility sequence: [15, 13, 26]
+
+Low utility sequence: [15, 13, 33, 22]
+
+Low utility sequence: [15, 13, 33, 4]
+
+Low utility sequence: [15, 13, 33]
+
+Low utility sequence: [15, 13, 77]
+
+Low utility sequence: [15, 13, 22, 4]
+
+Low utility sequence: [15, 13, 22]
+
+Low utility sequence: [15, 13, 4]
+
+Low utility sequence: [15, 13]
+
+Low utility sequence: [15, 38, 14]
+
+Low utility sequence: [15, 38, 26, 33, 22]
+
+Low utility sequence: [15, 38, 26, 33, 4]
+
+Low utility sequence: [15, 38, 26, 33]
+
+Low utility sequence: [15, 38, 26, 77]
+
+Low utility sequence: [15, 38, 26, 22, 4]
+
+Low utility sequence: [15, 38, 26, 22]
+
+Low utility sequence: [15, 38, 26, 4]
+
+Low utility sequence: [15, 38, 26]
+
+Low utility sequence: [15, 38, 33, 22, 4]
+
+Low utility sequence: [15, 38, 33, 22]
+
+Low utility sequence: [15, 38, 33, 4]
+
+Low utility sequence: [15, 38, 33]
+
+Low utility sequence: [15, 38, 77, 4]
+
+Low utility sequence: [15, 38, 77]
+
+Low utility sequence: [15, 38, 22, 4]
+
+Low utility sequence: [15, 38, 22]
+
+Low utility sequence: [15, 38, 4]
+
+Low utility sequence: [15, 38, 27]
+
+Low utility sequence: [15, 38]
+
+Low utility sequence: [15, 14, 26]
+
+Low utility sequence: [15, 14, 33]
+
+Low utility sequence: [15, 14, 4]
+
+Low utility sequence: [15, 14]
+
+Low utility sequence: [15, 29, 26]
+
+Low utility sequence: [15, 29, 4]
+
+Low utility sequence: [15, 29]
+
+Low utility sequence: [15, 26, 33, 77]
+
+Low utility sequence: [15, 26, 33, 22, 4]
+
+Low utility sequence: [15, 26, 33, 22]
+
+Low utility sequence: [15, 26, 33, 4]
+
+Low utility sequence: [15, 26, 33]
+
+Low utility sequence: [15, 26, 77, 4]
+
+Low utility sequence: [15, 26, 77]
+
+Low utility sequence: [15, 26, 22, 4]
+
+Low utility sequence: [15, 26, 22]
+
+Low utility sequence: [15, 26, 4]
+
+Low utility sequence: [15, 26, 27]
+
+Low utility sequence: [15, 26]
+
+Low utility sequence: [15, 33, 77, 4]
+
+Low utility sequence: [15, 33, 77]
+
+Low utility sequence: [15, 33, 22, 4]
+
+Low utility sequence: [15, 33, 22]
+
+Low utility sequence: [15, 33, 4]
+
+Low utility sequence: [15, 33, 27]
+
+Low utility sequence: [15, 33]
+
+Low utility sequence: [15, 77, 22]
+
+Low utility sequence: [15, 77, 4]
+
+Low utility sequence: [15, 77]
+
+Low utility sequence: [15, 22, 4]
+
+Low utility sequence: [15, 22]
+
+Low utility sequence: [15, 4, 27]
+
+Low utility sequence: [15, 4]
+
+Low utility sequence: [15, 27]
+
+Low utility sequence: [15]
+
+Low utility sequence: [8, 9, 13, 38]
+
+Low utility sequence: [8, 9, 13, 26]
+
+Low utility sequence: [8, 9, 13, 33]
+
+Low utility sequence: [8, 9, 13, 4]
+
+Low utility sequence: [8, 9, 13]
+
+Low utility sequence: [8, 9, 38, 26, 33]
+
+Low utility sequence: [8, 9, 38, 26, 4]
+
+Low utility sequence: [8, 9, 38, 26]
+
+Low utility sequence: [8, 9, 38, 33]
+
+Low utility sequence: [8, 9, 38, 4]
+
+Low utility sequence: [8, 9, 38]
+
+Low utility sequence: [8, 9, 26, 33, 4]
+
+Low utility sequence: [8, 9, 26, 33]
+
+Low utility sequence: [8, 9, 26, 22]
+
+Low utility sequence: [8, 9, 26, 4]
+
+Low utility sequence: [8, 9, 26]
+
+Low utility sequence: [8, 9, 33, 4]
+
+Low utility sequence: [8, 9, 33]
+
+Low utility sequence: [8, 9, 22, 4]
+
+Low utility sequence: [8, 9, 22]
+
+Low utility sequence: [8, 9, 4]
+
+Low utility sequence: [8, 9]
+
+Low utility sequence: [8, 13, 38, 26, 33]
+
+Low utility sequence: [8, 13, 38, 26, 4]
+
+Low utility sequence: [8, 13, 38, 26]
+
+Low utility sequence: [8, 13, 38, 33, 4]
+
+Low utility sequence: [8, 13, 38, 33]
+
+Low utility sequence: [8, 13, 38, 22]
+
+Low utility sequence: [8, 13, 38, 4]
+
+Low utility sequence: [8, 13, 38]
+
+Low utility sequence: [8, 13, 26, 33, 4]
+
+Low utility sequence: [8, 13, 26, 33]
+
+Low utility sequence: [8, 13, 26, 22, 4]
+
+Low utility sequence: [8, 13, 26, 22]
+
+Low utility sequence: [8, 13, 26, 4]
+
+Low utility sequence: [8, 13, 26]
+
+Low utility sequence: [8, 13, 33, 22]
+
+Low utility sequence: [8, 13, 33, 4]
+
+Low utility sequence: [8, 13, 33]
+
+Low utility sequence: [8, 13, 77]
+
+Low utility sequence: [8, 13, 22, 4]
+
+Low utility sequence: [8, 13, 22]
+
+Low utility sequence: [8, 13, 4]
+
+Low utility sequence: [8, 13]
+
+Low utility sequence: [8, 38, 26, 33, 22]
+
+Low utility sequence: [8, 38, 26, 33, 4]
+
+Low utility sequence: [8, 38, 26, 33]
+
+Low utility sequence: [8, 38, 26, 77]
+
+Low utility sequence: [8, 38, 26, 22, 4]
+
+Low utility sequence: [8, 38, 26, 22]
+
+Low utility sequence: [8, 38, 26, 4]
+
+Low utility sequence: [8, 38, 26]
+
+Low utility sequence: [8, 38, 33, 22, 4]
+
+Low utility sequence: [8, 38, 33, 22]
+
+Low utility sequence: [8, 38, 33, 4]
+
+Low utility sequence: [8, 38, 33]
+
+Low utility sequence: [8, 38, 77]
+
+Low utility sequence: [8, 38, 22, 4]
+
+Low utility sequence: [8, 38, 22]
+
+Low utility sequence: [8, 38, 4]
+
+Low utility sequence: [8, 38]
+
+Low utility sequence: [8, 14, 26]
+
+Low utility sequence: [8, 14, 4]
+
+Low utility sequence: [8, 14]
+
+Low utility sequence: [8, 29, 26]
+
+Low utility sequence: [8, 29]
+
+Low utility sequence: [8, 26, 33, 77]
+
+Low utility sequence: [8, 26, 33, 22, 4]
+
+Low utility sequence: [8, 26, 33, 22]
+
+Low utility sequence: [8, 26, 33, 4]
+
+Low utility sequence: [8, 26, 33]
+
+Low utility sequence: [8, 26, 77, 4]
+
+Low utility sequence: [8, 26, 77]
+
+Low utility sequence: [8, 26, 22, 4]
+
+Low utility sequence: [8, 26, 22]
+
+Low utility sequence: [8, 26, 4]
+
+Low utility sequence: [8, 26, 27]
+
+Low utility sequence: [8, 26]
+
+Low utility sequence: [8, 33, 77]
+
+Low utility sequence: [8, 33, 22, 4]
+
+Low utility sequence: [8, 33, 22]
+
+Low utility sequence: [8, 33, 4]
+
+Low utility sequence: [8, 33]
+
+Low utility sequence: [8, 77, 4]
+
+Low utility sequence: [8, 77]
+
+Low utility sequence: [8, 22, 4]
+
+Low utility sequence: [8, 22]
+
+Low utility sequence: [8, 4, 27]
+
+Low utility sequence: [8, 4]
+
+Low utility sequence: [8, 27]
+
+Low utility sequence: [8]
+
+Low utility sequence: [9, 13, 38, 26]
+
+Low utility sequence: [9, 13, 38, 33]
+
+Low utility sequence: [9, 13, 38, 4]
+
+Low utility sequence: [9, 13, 38]
+
+Low utility sequence: [9, 13, 26, 33]
+
+Low utility sequence: [9, 13, 26, 4]
+
+Low utility sequence: [9, 13, 26]
+
+Low utility sequence: [9, 13, 33, 4]
+
+Low utility sequence: [9, 13, 33]
+
+Low utility sequence: [9, 13, 22]
+
+Low utility sequence: [9, 13, 4]
+
+Low utility sequence: [9, 13]
+
+Low utility sequence: [9, 38, 26, 33, 4]
+
+Low utility sequence: [9, 38, 26, 33]
+
+Low utility sequence: [9, 38, 26, 22]
+
+Low utility sequence: [9, 38, 26, 4]
+
+Low utility sequence: [9, 38, 26]
+
+Low utility sequence: [9, 38, 33, 4]
+
+Low utility sequence: [9, 38, 33]
+
+Low utility sequence: [9, 38, 22, 4]
+
+Low utility sequence: [9, 38, 22]
+
+Low utility sequence: [9, 38, 4]
+
+Low utility sequence: [9, 38]
+
+Low utility sequence: [9, 26, 33, 22]
+
+Low utility sequence: [9, 26, 33, 4]
+
+Low utility sequence: [9, 26, 33]
+
+Low utility sequence: [9, 26, 77]
+
+Low utility sequence: [9, 26, 22, 4]
+
+Low utility sequence: [9, 26, 22]
+
+Low utility sequence: [9, 26, 4]
+
+Low utility sequence: [9, 26]
+
+Low utility sequence: [9, 33, 22, 4]
+
+Low utility sequence: [9, 33, 22]
+
+Low utility sequence: [9, 33, 4]
+
+Low utility sequence: [9, 33]
+
+Low utility sequence: [9, 77]
+
+Low utility sequence: [9, 22, 4]
+
+Low utility sequence: [9, 22]
+
+Low utility sequence: [9, 4]
+
+Low utility sequence: [9]
+
+Low utility sequence: [13, 38, 26, 33, 4]
+
+Low utility sequence: [13, 38, 26, 33]
+
+Low utility sequence: [13, 38, 26, 22, 4]
+
+Low utility sequence: [13, 38, 26, 22]
+
+Low utility sequence: [13, 38, 26, 4]
+
+Low utility sequence: [13, 38, 26]
+
+Low utility sequence: [13, 38, 33, 22]
+
+Low utility sequence: [13, 38, 33, 4]
+
+Low utility sequence: [13, 38, 33]
+
+Low utility sequence: [13, 38, 77]
+
+Low utility sequence: [13, 38, 22, 4]
+
+Low utility sequence: [13, 38, 22]
+
+Low utility sequence: [13, 38, 4]
+
+Low utility sequence: [13, 38]
+
+Low utility sequence: [13, 14]
+
+Low utility sequence: [13, 29]
+
+Low utility sequence: [13, 26, 33, 22, 4]
+
+Low utility sequence: [13, 26, 33, 22]
+
+Low utility sequence: [13, 26, 33, 4]
+
+Low utility sequence: [13, 26, 33]
+
+Low utility sequence: [13, 26, 77]
+
+Low utility sequence: [13, 26, 22, 4]
+
+Low utility sequence: [13, 26, 22]
+
+Low utility sequence: [13, 26, 4]
+
+Low utility sequence: [13, 26]
+
+Low utility sequence: [13, 33, 77]
+
+Low utility sequence: [13, 33, 22, 4]
+
+Low utility sequence: [13, 33, 22]
+
+Low utility sequence: [13, 33, 4]
+
+Low utility sequence: [13, 33]
+
+Low utility sequence: [13, 77, 4]
+
+Low utility sequence: [13, 77]
+
+Low utility sequence: [13, 22, 4]
+
+Low utility sequence: [13, 22]
+
+Low utility sequence: [13, 4]
+
+Low utility sequence: [13, 27]
+
+Low utility sequence: [13]
+
+Low utility sequence: [38, 14, 26]
+
+Low utility sequence: [38, 14, 4]
+
+Low utility sequence: [38, 14]
+
+Low utility sequence: [38, 29, 26]
+
+Low utility sequence: [38, 29]
+
+Low utility sequence: [38, 26, 33, 77]
+
+Low utility sequence: [38, 26, 33, 22, 4]
+
+Low utility sequence: [38, 26, 33, 22]
+
+Low utility sequence: [38, 26, 33, 4]
+
+Low utility sequence: [38, 26, 33]
+
+Low utility sequence: [38, 26, 77, 4]
+
+Low utility sequence: [38, 26, 77]
+
+Low utility sequence: [38, 26, 22, 4]
+
+Low utility sequence: [38, 26, 22]
+
+Low utility sequence: [38, 26, 4]
+
+Low utility sequence: [38, 26, 27]
+
+Low utility sequence: [38, 26]
+
+Low utility sequence: [38, 33, 77]
+
+Low utility sequence: [38, 33, 22, 4]
+
+Low utility sequence: [38, 33, 22]
+
+Low utility sequence: [38, 33, 4]
+
+Low utility sequence: [38, 33]
+
+Low utility sequence: [38, 77, 4]
+
+Low utility sequence: [38, 77]
+
+Low utility sequence: [38, 22, 4]
+
+Low utility sequence: [38, 22]
+
+Low utility sequence: [38, 4, 27]
+
+Low utility sequence: [38, 4]
+
+Low utility sequence: [38, 27]
+
+Low utility sequence: [38]
+
+Low utility sequence: [14, 26, 33]
+
+Low utility sequence: [14, 26, 4]
+
+Low utility sequence: [14, 26]
+
+Low utility sequence: [14, 33, 4]
+
+Low utility sequence: [14, 33]
+
+Low utility sequence: [14, 22]
+
+Low utility sequence: [14, 4]
+
+Low utility sequence: [14]
+
+Low utility sequence: [29, 26, 33]
+
+Low utility sequence: [29, 26, 4]
+
+Low utility sequence: [29, 26]
+
+Low utility sequence: [29, 33]
+
+Low utility sequence: [29, 4]
+
+Low utility sequence: [29]
+
+Low utility sequence: [26, 33, 77, 4]
+
+Low utility sequence: [26, 33, 77]
+
+Low utility sequence: [26, 33, 22, 4]
+
+Low utility sequence: [26, 33, 22]
+
+Low utility sequence: [26, 33, 4]
+
+Low utility sequence: [26, 33, 27]
+
+Low utility sequence: [26, 33]
+
+Low utility sequence: [26, 77, 22]
+
+Low utility sequence: [26, 77, 4]
+
+Low utility sequence: [26, 77]
+
+Low utility sequence: [26, 22, 4]
+
+Low utility sequence: [26, 22]
+
+Low utility sequence: [26, 4, 27]
+
+Low utility sequence: [26, 4]
+
+Low utility sequence: [26, 27]
+
+Low utility sequence: [26]
+
+Low utility sequence: [33, 77, 4]
+
+Low utility sequence: [33, 77]
+
+Low utility sequence: [33, 22, 4]
+
+Low utility sequence: [33, 22]
+
+Low utility sequence: [33, 4, 27]
+
+Low utility sequence: [33, 4]
+
+Low utility sequence: [33, 27]
+
+Low utility sequence: [33]
+
+Low utility sequence: [77, 22, 4]
+
+Low utility sequence: [77, 22]
+
+Low utility sequence: [77, 4]
+
+Low utility sequence: [77]
+
+Low utility sequence: [22, 4]
+
+Low utility sequence: [22, 27]
+
+Low utility sequence: [22]
+
+Low utility sequence: [4, 27]
+
+Low utility sequence: [4]
+
+Low utility sequence: [27]
+
+低效用非连续序列有：411个
+输出低效用序列：
+序列：[15, 8, 9, 13]  效用：21
+序列：[15, 8, 9, 38, 26]  效用：21
+序列：[15, 8, 9, 38, 4]  效用：22
+序列：[15, 8, 9, 38]  效用：19
+序列：[15, 8, 9, 26, 33]  效用：21
+序列：[15, 8, 9, 26, 4]  效用：20
+序列：[15, 8, 9, 26]  效用：17
+序列：[15, 8, 9, 33, 4]  效用：22
+序列：[15, 8, 9, 33]  效用：19
+序列：[15, 8, 9, 22]  效用：22
+序列：[15, 8, 9, 4]  效用：18
+序列：[15, 8, 9]  效用：15
+序列：[15, 8, 13, 38, 26, 4]  效用：22
+序列：[15, 8, 13, 38, 26]  效用：19
+序列：[15, 8, 13, 38, 33]  效用：21
+序列：[15, 8, 13, 38, 4]  效用：20
+序列：[15, 8, 13, 38]  效用：17
+序列：[15, 8, 13, 26, 33, 4]  效用：22
+序列：[15, 8, 13, 26, 33]  效用：19
+序列：[15, 8, 13, 26, 22]  效用：22
+序列：[15, 8, 13, 26, 4]  效用：18
+序列：[15, 8, 13, 26]  效用：15
+序列：[15, 8, 13, 33, 4]  效用：20
+序列：[15, 8, 13, 33]  效用：17
+序列：[15, 8, 13, 22]  效用：20
+序列：[15, 8, 13, 4]  效用：16
+序列：[15, 8, 13]  效用：13
+序列：[15, 8, 38, 26, 33, 4]  效用：20
+序列：[15, 8, 38, 26, 33]  效用：17
+序列：[15, 8, 38, 26, 22]  效用：20
+序列：[15, 8, 38, 26, 4]  效用：16
+序列：[15, 8, 38, 26]  效用：13
+序列：[15, 8, 38, 33, 22]  效用：22
+序列：[15, 8, 38, 33, 4]  效用：18
+序列：[15, 8, 38, 33]  效用：15
+序列：[15, 8, 38, 22, 4]  效用：21
+序列：[15, 8, 38, 22]  效用：18
+序列：[15, 8, 38, 4]  效用：14
+序列：[15, 8, 38]  效用：11
+序列：[15, 8, 14]  效用：22
+序列：[15, 8, 26, 33, 22]  效用：20
+序列：[15, 8, 26, 33, 4]  效用：16
+序列：[15, 8, 26, 33]  效用：13
+序列：[15, 8, 26, 77]  效用：21
+序列：[15, 8, 26, 22, 4]  效用：19
+序列：[15, 8, 26, 22]  效用：16
+序列：[15, 8, 26, 4]  效用：12
+序列：[15, 8, 26]  效用：9
+序列：[15, 8, 33, 22, 4]  效用：21
+序列：[15, 8, 33, 22]  效用：18
+序列：[15, 8, 33, 4]  效用：14
+序列：[15, 8, 33]  效用：11
+序列：[15, 8, 77, 4]  效用：22
+序列：[15, 8, 77]  效用：19
+序列：[15, 8, 22, 4]  效用：17
+序列：[15, 8, 22]  效用：14
+序列：[15, 8, 4]  效用：10
+序列：[15, 8, 27]  效用：22
+序列：[15, 8]  效用：7
+序列：[15, 9, 13, 38]  效用：21
+序列：[15, 9, 13, 26, 4]  效用：22
+序列：[15, 9, 13, 26]  效用：19
+序列：[15, 9, 13, 33]  效用：21
+序列：[15, 9, 13, 4]  效用：20
+序列：[15, 9, 13]  效用：17
+序列：[15, 9, 38, 26, 33]  效用：21
+序列：[15, 9, 38, 26, 4]  效用：20
+序列：[15, 9, 38, 26]  效用：17
+序列：[15, 9, 38, 33, 4]  效用：22
+序列：[15, 9, 38, 33]  效用：19
+序列：[15, 9, 38, 22]  效用：22
+序列：[15, 9, 38, 4]  效用：18
+序列：[15, 9, 38]  效用：15
+序列：[15, 9, 26, 33, 4]  效用：20
+序列：[15, 9, 26, 33]  效用：17
+序列：[15, 9, 26, 22]  效用：20
+序列：[15, 9, 26, 4]  效用：16
+序列：[15, 9, 26]  效用：13
+序列：[15, 9, 33, 22]  效用：22
+序列：[15, 9, 33, 4]  效用：18
+序列：[15, 9, 33]  效用：15
+序列：[15, 9, 22, 4]  效用：21
+序列：[15, 9, 22]  效用：18
+序列：[15, 9, 4]  效用：14
+序列：[15, 9]  效用：11
+序列：[15, 13, 38, 26, 33, 4]  效用：22
+序列：[15, 13, 38, 26, 33]  效用：19
+序列：[15, 13, 38, 26, 22]  效用：22
+序列：[15, 13, 38, 26, 4]  效用：18
+序列：[15, 13, 38, 26]  效用：15
+序列：[15, 13, 38, 33, 4]  效用：20
+序列：[15, 13, 38, 33]  效用：17
+序列：[15, 13, 38, 22]  效用：20
+序列：[15, 13, 38, 4]  效用：16
+序列：[15, 13, 38]  效用：13
+序列：[15, 13, 26, 33, 22]  效用：22
+序列：[15, 13, 26, 33, 4]  效用：18
+序列：[15, 13, 26, 33]  效用：15
+序列：[15, 13, 26, 22, 4]  效用：21
+序列：[15, 13, 26, 22]  效用：18
+序列：[15, 13, 26, 4]  效用：14
+序列：[15, 13, 26]  效用：11
+序列：[15, 13, 33, 22]  效用：20
+序列：[15, 13, 33, 4]  效用：16
+序列：[15, 13, 33]  效用：13
+序列：[15, 13, 77]  效用：21
+序列：[15, 13, 22, 4]  效用：19
+序列：[15, 13, 22]  效用：16
+序列：[15, 13, 4]  效用：12
+序列：[15, 13]  效用：9
+序列：[15, 38, 14]  效用：22
+序列：[15, 38, 26, 33, 22]  效用：20
+序列：[15, 38, 26, 33, 4]  效用：16
+序列：[15, 38, 26, 33]  效用：13
+序列：[15, 38, 26, 77]  效用：21
+序列：[15, 38, 26, 22, 4]  效用：19
+序列：[15, 38, 26, 22]  效用：16
+序列：[15, 38, 26, 4]  效用：12
+序列：[15, 38, 26]  效用：9
+序列：[15, 38, 33, 22, 4]  效用：21
+序列：[15, 38, 33, 22]  效用：18
+序列：[15, 38, 33, 4]  效用：14
+序列：[15, 38, 33]  效用：11
+序列：[15, 38, 77, 4]  效用：22
+序列：[15, 38, 77]  效用：19
+序列：[15, 38, 22, 4]  效用：17
+序列：[15, 38, 22]  效用：14
+序列：[15, 38, 4]  效用：10
+序列：[15, 38, 27]  效用：22
+序列：[15, 38]  效用：7
+序列：[15, 14, 26]  效用：20
+序列：[15, 14, 33]  效用：22
+序列：[15, 14, 4]  效用：21
+序列：[15, 14]  效用：18
+序列：[15, 29, 26]  效用：21
+序列：[15, 29, 4]  效用：22
+序列：[15, 29]  效用：19
+序列：[15, 26, 33, 77]  效用：21
+序列：[15, 26, 33, 22, 4]  效用：19
+序列：[15, 26, 33, 22]  效用：16
+序列：[15, 26, 33, 4]  效用：12
+序列：[15, 26, 33]  效用：9
+序列：[15, 26, 77, 4]  效用：20
+序列：[15, 26, 77]  效用：17
+序列：[15, 26, 22, 4]  效用：15
+序列：[15, 26, 22]  效用：12
+序列：[15, 26, 4]  效用：8
+序列：[15, 26, 27]  效用：20
+序列：[15, 26]  效用：5
+序列：[15, 33, 77, 4]  效用：22
+序列：[15, 33, 77]  效用：19
+序列：[15, 33, 22, 4]  效用：17
+序列：[15, 33, 22]  效用：14
+序列：[15, 33, 4]  效用：10
+序列：[15, 33, 27]  效用：22
+序列：[15, 33]  效用：7
+序列：[15, 77, 22]  效用：22
+序列：[15, 77, 4]  效用：18
+序列：[15, 77]  效用：15
+序列：[15, 22, 4]  效用：13
+序列：[15, 22]  效用：10
+序列：[15, 4, 27]  效用：21
+序列：[15, 4]  效用：6
+序列：[15, 27]  效用：18
+序列：[15]  效用：3
+序列：[8, 9, 13, 38]  效用：22
+序列：[8, 9, 13, 26]  效用：20
+序列：[8, 9, 13, 33]  效用：22
+序列：[8, 9, 13, 4]  效用：21
+序列：[8, 9, 13]  效用：18
+序列：[8, 9, 38, 26, 33]  效用：22
+序列：[8, 9, 38, 26, 4]  效用：21
+序列：[8, 9, 38, 26]  效用：18
+序列：[8, 9, 38, 33]  效用：20
+序列：[8, 9, 38, 4]  效用：19
+序列：[8, 9, 38]  效用：16
+序列：[8, 9, 26, 33, 4]  效用：21
+序列：[8, 9, 26, 33]  效用：18
+序列：[8, 9, 26, 22]  效用：21
+序列：[8, 9, 26, 4]  效用：17
+序列：[8, 9, 26]  效用：14
+序列：[8, 9, 33, 4]  效用：19
+序列：[8, 9, 33]  效用：16
+序列：[8, 9, 22, 4]  效用：22
+序列：[8, 9, 22]  效用：19
+序列：[8, 9, 4]  效用：15
+序列：[8, 9]  效用：12
+序列：[8, 13, 38, 26, 33]  效用：20
+序列：[8, 13, 38, 26, 4]  效用：19
+序列：[8, 13, 38, 26]  效用：16
+序列：[8, 13, 38, 33, 4]  效用：21
+序列：[8, 13, 38, 33]  效用：18
+序列：[8, 13, 38, 22]  效用：21
+序列：[8, 13, 38, 4]  效用：17
+序列：[8, 13, 38]  效用：14
+序列：[8, 13, 26, 33, 4]  效用：19
+序列：[8, 13, 26, 33]  效用：16
+序列：[8, 13, 26, 22, 4]  效用：22
+序列：[8, 13, 26, 22]  效用：19
+序列：[8, 13, 26, 4]  效用：15
+序列：[8, 13, 26]  效用：12
+序列：[8, 13, 33, 22]  效用：21
+序列：[8, 13, 33, 4]  效用：17
+序列：[8, 13, 33]  效用：14
+序列：[8, 13, 77]  效用：22
+序列：[8, 13, 22, 4]  效用：20
+序列：[8, 13, 22]  效用：17
+序列：[8, 13, 4]  效用：13
+序列：[8, 13]  效用：10
+序列：[8, 38, 26, 33, 22]  效用：21
+序列：[8, 38, 26, 33, 4]  效用：17
+序列：[8, 38, 26, 33]  效用：14
+序列：[8, 38, 26, 77]  效用：22
+序列：[8, 38, 26, 22, 4]  效用：20
+序列：[8, 38, 26, 22]  效用：17
+序列：[8, 38, 26, 4]  效用：13
+序列：[8, 38, 26]  效用：10
+序列：[8, 38, 33, 22, 4]  效用：22
+序列：[8, 38, 33, 22]  效用：19
+序列：[8, 38, 33, 4]  效用：15
+序列：[8, 38, 33]  效用：12
+序列：[8, 38, 77]  效用：20
+序列：[8, 38, 22, 4]  效用：18
+序列：[8, 38, 22]  效用：15
+序列：[8, 38, 4]  效用：11
+序列：[8, 38]  效用：8
+序列：[8, 14, 26]  效用：21
+序列：[8, 14, 4]  效用：22
+序列：[8, 14]  效用：19
+序列：[8, 29, 26]  效用：22
+序列：[8, 29]  效用：20
+序列：[8, 26, 33, 77]  效用：22
+序列：[8, 26, 33, 22, 4]  效用：20
+序列：[8, 26, 33, 22]  效用：17
+序列：[8, 26, 33, 4]  效用：13
+序列：[8, 26, 33]  效用：10
+序列：[8, 26, 77, 4]  效用：21
+序列：[8, 26, 77]  效用：18
+序列：[8, 26, 22, 4]  效用：16
+序列：[8, 26, 22]  效用：13
+序列：[8, 26, 4]  效用：9
+序列：[8, 26, 27]  效用：21
+序列：[8, 26]  效用：6
+序列：[8, 33, 77]  效用：20
+序列：[8, 33, 22, 4]  效用：18
+序列：[8, 33, 22]  效用：15
+序列：[8, 33, 4]  效用：11
+序列：[8, 33]  效用：8
+序列：[8, 77, 4]  效用：19
+序列：[8, 77]  效用：16
+序列：[8, 22, 4]  效用：14
+序列：[8, 22]  效用：11
+序列：[8, 4, 27]  效用：22
+序列：[8, 4]  效用：7
+序列：[8, 27]  效用：19
+序列：[8]  效用：4
+序列：[9, 13, 38, 26]  效用：20
+序列：[9, 13, 38, 33]  效用：22
+序列：[9, 13, 38, 4]  效用：21
+序列：[9, 13, 38]  效用：18
+序列：[9, 13, 26, 33]  效用：20
+序列：[9, 13, 26, 4]  效用：19
+序列：[9, 13, 26]  效用：16
+序列：[9, 13, 33, 4]  效用：21
+序列：[9, 13, 33]  效用：18
+序列：[9, 13, 22]  效用：21
+序列：[9, 13, 4]  效用：17
+序列：[9, 13]  效用：14
+序列：[9, 38, 26, 33, 4]  效用：21
+序列：[9, 38, 26, 33]  效用：18
+序列：[9, 38, 26, 22]  效用：21
+序列：[9, 38, 26, 4]  效用：17
+序列：[9, 38, 26]  效用：14
+序列：[9, 38, 33, 4]  效用：19
+序列：[9, 38, 33]  效用：16
+序列：[9, 38, 22, 4]  效用：22
+序列：[9, 38, 22]  效用：19
+序列：[9, 38, 4]  效用：15
+序列：[9, 38]  效用：12
+序列：[9, 26, 33, 22]  效用：21
+序列：[9, 26, 33, 4]  效用：17
+序列：[9, 26, 33]  效用：14
+序列：[9, 26, 77]  效用：22
+序列：[9, 26, 22, 4]  效用：20
+序列：[9, 26, 22]  效用：17
+序列：[9, 26, 4]  效用：13
+序列：[9, 26]  效用：10
+序列：[9, 33, 22, 4]  效用：22
+序列：[9, 33, 22]  效用：19
+序列：[9, 33, 4]  效用：15
+序列：[9, 33]  效用：12
+序列：[9, 77]  效用：20
+序列：[9, 22, 4]  效用：18
+序列：[9, 22]  效用：15
+序列：[9, 4]  效用：11
+序列：[9]  效用：8
+序列：[13, 38, 26, 33, 4]  效用：19
+序列：[13, 38, 26, 33]  效用：16
+序列：[13, 38, 26, 22, 4]  效用：22
+序列：[13, 38, 26, 22]  效用：19
+序列：[13, 38, 26, 4]  效用：15
+序列：[13, 38, 26]  效用：12
+序列：[13, 38, 33, 22]  效用：21
+序列：[13, 38, 33, 4]  效用：17
+序列：[13, 38, 33]  效用：14
+序列：[13, 38, 77]  效用：22
+序列：[13, 38, 22, 4]  效用：20
+序列：[13, 38, 22]  效用：17
+序列：[13, 38, 4]  效用：13
+序列：[13, 38]  效用：10
+序列：[13, 14]  效用：21
+序列：[13, 29]  效用：22
+序列：[13, 26, 33, 22, 4]  效用：22
+序列：[13, 26, 33, 22]  效用：19
+序列：[13, 26, 33, 4]  效用：15
+序列：[13, 26, 33]  效用：12
+序列：[13, 26, 77]  效用：20
+序列：[13, 26, 22, 4]  效用：18
+序列：[13, 26, 22]  效用：15
+序列：[13, 26, 4]  效用：11
+序列：[13, 26]  效用：8
+序列：[13, 33, 77]  效用：22
+序列：[13, 33, 22, 4]  效用：20
+序列：[13, 33, 22]  效用：17
+序列：[13, 33, 4]  效用：13
+序列：[13, 33]  效用：10
+序列：[13, 77, 4]  效用：21
+序列：[13, 77]  效用：18
+序列：[13, 22, 4]  效用：16
+序列：[13, 22]  效用：13
+序列：[13, 4]  效用：9
+序列：[13, 27]  效用：21
+序列：[13]  效用：6
+序列：[38, 14, 26]  效用：21
+序列：[38, 14, 4]  效用：22
+序列：[38, 14]  效用：19
+序列：[38, 29, 26]  效用：22
+序列：[38, 29]  效用：20
+序列：[38, 26, 33, 77]  效用：22
+序列：[38, 26, 33, 22, 4]  效用：20
+序列：[38, 26, 33, 22]  效用：17
+序列：[38, 26, 33, 4]  效用：13
+序列：[38, 26, 33]  效用：10
+序列：[38, 26, 77, 4]  效用：21
+序列：[38, 26, 77]  效用：18
+序列：[38, 26, 22, 4]  效用：16
+序列：[38, 26, 22]  效用：13
+序列：[38, 26, 4]  效用：9
+序列：[38, 26, 27]  效用：21
+序列：[38, 26]  效用：6
+序列：[38, 33, 77]  效用：20
+序列：[38, 33, 22, 4]  效用：18
+序列：[38, 33, 22]  效用：15
+序列：[38, 33, 4]  效用：11
+序列：[38, 33]  效用：8
+序列：[38, 77, 4]  效用：19
+序列：[38, 77]  效用：16
+序列：[38, 22, 4]  效用：14
+序列：[38, 22]  效用：11
+序列：[38, 4, 27]  效用：22
+序列：[38, 4]  效用：7
+序列：[38, 27]  效用：19
+序列：[38]  效用：4
+序列：[14, 26, 33]  效用：21
+序列：[14, 26, 4]  效用：20
+序列：[14, 26]  效用：17
+序列：[14, 33, 4]  效用：22
+序列：[14, 33]  效用：19
+序列：[14, 22]  效用：22
+序列：[14, 4]  效用：18
+序列：[14]  效用：15
+序列：[29, 26, 33]  效用：22
+序列：[29, 26, 4]  效用：21
+序列：[29, 26]  效用：18
+序列：[29, 33]  效用：20
+序列：[29, 4]  效用：19
+序列：[29]  效用：16
+序列：[26, 33, 77, 4]  效用：21
+序列：[26, 33, 77]  效用：18
+序列：[26, 33, 22, 4]  效用：16
+序列：[26, 33, 22]  效用：13
+序列：[26, 33, 4]  效用：9
+序列：[26, 33, 27]  效用：21
+序列：[26, 33]  效用：6
+序列：[26, 77, 22]  效用：21
+序列：[26, 77, 4]  效用：17
+序列：[26, 77]  效用：14
+序列：[26, 22, 4]  效用：12
+序列：[26, 22]  效用：9
+序列：[26, 4, 27]  效用：20
+序列：[26, 4]  效用：5
+序列：[26, 27]  效用：17
+序列：[26]  效用：2
+序列：[33, 77, 4]  效用：19
+序列：[33, 77]  效用：16
+序列：[33, 22, 4]  效用：14
+序列：[33, 22]  效用：11
+序列：[33, 4, 27]  效用：22
+序列：[33, 4]  效用：7
+序列：[33, 27]  效用：19
+序列：[33]  效用：4
+序列：[77, 22, 4]  效用：22
+序列：[77, 22]  效用：19
+序列：[77, 4]  效用：15
+序列：[77]  效用：12
+序列：[22, 4]  效用：10
+序列：[22, 27]  效用：22
+序列：[22]  效用：7
+序列：[4, 27]  效用：18
+序列：[4]  效用：3
+序列：[27]  效用：15
+输出低效用序列的数量：411
+
+Number of utility computations: 1574
+Data loading time: 0.017 s
+Bitmap construction time: 0.017 s
+Max sequence generation time: 0.02 s
+Preprocessing time: 0.02 s
+Total execution time: 0.059 s
+Memory used during execution: 5.322044372558594 MB
+Total system memory: 246.0 MB
+Free memory: 236.67786407470703 MB
+Number of candidates (optimized): 782
+Number of patterns: 411
+
+Memory at program end: 9 MB
+Total memory consumed: 5 MB
+Peak memory usage: 9.322135925292969 MB
+输出maxutility:22
